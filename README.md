@@ -77,8 +77,9 @@
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&layout=compact&theme=default" />
 </a>
 
-[linkedin]: https://www.linkedin.com/in/didula-lakminda/
-[facebook]: https://www.facebook.com/dmax.lakminda/
+[linkedin]: https://www.linkedin.com/in/kawsikan-kumaralingam/
+<!-- [facebook]: https://www.facebook.com/dmax.lakminda/ -->
+[twitter]: https://twitter.com/KKawsikan/
 <!-- [hackerank]: https://www.hackerrank.com/didulalakminda31
 
 <br />
