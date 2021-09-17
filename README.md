@@ -71,10 +71,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawsikan)](https://github.com/Didula-Lakminda/github-readme-stats) -->
 
-<a href="https://github-readme-stats.vercel.app/api?username=Didula-Lakminda&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default">
-	<img align="center" alt="Didula's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Didula-Lakminda&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" /></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&layout=compact&theme=default">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&layout=compact&theme=default" />
+<a href="https://github-readme-stats.vercel.app/api?username=Kawsikan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default">
+	<img align="center" alt="Kawsikan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kawsikan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawsikan&layout=compact&theme=default">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawsikan&layout=compact&theme=default" />
 </a>
 
 [linkedin]: https://www.linkedin.com/in/kawsikan-kumaralingam/
