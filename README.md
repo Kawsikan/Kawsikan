@@ -53,7 +53,7 @@
 <img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png">
 <br />
 <img alt="android" width="30px" src="https://img.icons8.com/color/240/000000/android-os.png"/>
-<!-- <img alt="ios" width="30px" src="https://img.icons8.com/color/240/000000/ios-logo.png"/> -->
+<img alt="ios" width="30px" src="https://img.icons8.com/color/240/000000/ios-logo.png"/>
 <br />
 <img alt="java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png"/>
 <img alt="react-native" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
