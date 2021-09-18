@@ -79,7 +79,8 @@
 <img alt="Figma" width="30px" src="https://img.icons8.com/fluent/240/000000/figma.png"/>
 <img alt="adobeXD" width="30px" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png"/>
 <!-- <img alt="Sketch" width="30px" src="https://img.icons8.com/plasticine/200/000000/sketch.png"/></p> -->
-
+<br />
+<img width="30px" src="https://img.icons8.com/fluency/48/000000/imovie.png"/>
 
 ---
 
