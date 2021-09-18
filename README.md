@@ -83,9 +83,9 @@
 
 ---
 
-[![Kawsikan's's github stats](https://github-readme-stats.vercel.app/api?username=Kawsikan)](https://github.com/Kawsikan/github-readme-stats)
+<!-- [![Kawsikan's's github stats](https://github-readme-stats.vercel.app/api?username=Kawsikan)](https://github.com/Kawsikan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawsikan)](https://github.com/Kawsikan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawsikan)](https://github.com/Kawsikan/github-readme-stats) -->
 
 <a href="https://github-readme-stats.vercel.app/api?username=Kawsikan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default">
 	<img align="center" alt="Kawsikan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kawsikan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" /></a>
