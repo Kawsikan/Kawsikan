@@ -54,13 +54,13 @@
 <!-- <img alt="angularjs" width="30px" src="https://img.icons8.com/color/240/000000/angularjs.png"/> -->
 <!-- <img alt="vue-js" width="30px" src="https://img.icons8.com/color/240/000000/vue-js.png"/> -->
 <img alt="Node.js" width="30px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-<img alt="Firebase" width="30px" src="https://img.icons8.com/color/240/000000/firebase.png"/>
 <img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png">
 <br />
 <img width="30px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img width="30px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 <img width="30px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+<img alt="Firebase" width="30px" src="https://img.icons8.com/color/240/000000/firebase.png"/>
 <br />
 <img alt="android" width="30px" src="https://img.icons8.com/color/240/000000/android-os.png"/>
 <img alt="ios" width="30px" src="https://img.icons8.com/color/240/000000/ios-logo.png"/>
