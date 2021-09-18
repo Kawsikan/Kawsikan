@@ -50,6 +50,7 @@
 <img alt="html5" width="30px" src="https://img.icons8.com/color/240/000000/html-5.png">
 <img alt="css3" width="30px" src="https://img.icons8.com/color/240/000000/css3.png">
 <img alt="javascript" width="30px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+<img alt="java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png"/>
 <!-- <img alt="typescript" width="30px" src="https://img.icons8.com/color/240/000000/typescript.png"> -->
 <img width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <br />	
@@ -69,7 +70,6 @@
 <img alt="android" width="30px" src="https://img.icons8.com/color/240/000000/android-os.png"/>
 <img alt="ios" width="30px" src="https://img.icons8.com/color/240/000000/ios-logo.png"/>
 <br />
-<img alt="java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png"/>
 <img alt="react-native" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
 <img alt="flutter" width="30px" src="https://img.icons8.com/color/240/000000/flutter.png"/>
 <!-- <img alt="swift" width="30px" src="https://img.icons8.com/color/240/000000/swift.png"/> -->
@@ -82,10 +82,10 @@
 
 
 ---
-<!-- 
+
 [![Kawsikan's's github stats](https://github-readme-stats.vercel.app/api?username=Kawsikan)](https://github.com/Kawsikan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawsikan)](https://github.com/Didula-Lakminda/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawsikan)](https://github.com/Kawsikan/github-readme-stats)
 
 <a href="https://github-readme-stats.vercel.app/api?username=Kawsikan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default">
 	<img align="center" alt="Kawsikan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kawsikan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" /></a>
