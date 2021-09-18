@@ -22,6 +22,7 @@
 <!-- [<img align="left" alt="Didula-Lakminda | Facebook" height="22px" src="https://img.icons8.com/fluent/240/000000/facebook-new.png"/>][facebook] -->
 [<img align="left" alt="Kawsikan | LinkedIn" height="22px" src="https://img.icons8.com/fluent/240/000000/linkedin.png"/>][linkedin]
 <!-- [<img align="left" alt="Kawsikan | Skype" height="22px" src="https://img.icons8.com/color/240/000000/skype--v1.png"/>][skype] -->
+[<img align="left" height="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>][twitter]
 [<img align="left" alt="Kawsikan | Instagram" height="22px" src="https://img.icons8.com/fluent/240/000000/instagram-new.png"/>][instagram]
 <!-- 
 [<img align="left" alt="Sabesan | Facebook" height="22px" src="https://img.icons8.com/fluent/240/000000/facebook-new.png"/>][facebook]
@@ -91,6 +92,7 @@
 
 [linkedin]: https://www.linkedin.com/in/kawsikan-kumaralingam/
 [instagram]: https://www.instagram.com/kawsi_k/
+[twitter]: https://twitter.com/KKawsikan
 <!-- [facebook]: https://www.facebook.com/dmax.lakminda/ -->
 <!-- [twitter]: https://twitter.com/KKawsikan/ -->
 <!-- [hackerank]: https://www.hackerrank.com/didulalakminda31
