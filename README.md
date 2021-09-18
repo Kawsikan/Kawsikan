@@ -58,13 +58,15 @@
 <br />
 <img width="30px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img width="30px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
+<img width="30px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
 <br />
 <img alt="android" width="30px" src="https://img.icons8.com/color/240/000000/android-os.png"/>
 <img alt="ios" width="30px" src="https://img.icons8.com/color/240/000000/ios-logo.png"/>
 <br />
 <img alt="java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png"/>
 <img alt="react-native" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
-<!-- <img alt="flutter" width="30px" src="https://img.icons8.com/color/240/000000/flutter.png"/> -->
+<img alt="flutter" width="30px" src="https://img.icons8.com/color/240/000000/flutter.png"/>
 <!-- <img alt="swift" width="30px" src="https://img.icons8.com/color/240/000000/swift.png"/> -->
 <br />
 <img alt="Figma" width="30px" src="https://img.icons8.com/fluent/240/000000/figma.png"/>
