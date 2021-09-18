@@ -88,6 +88,7 @@
 </a>
 
 [linkedin]: https://www.linkedin.com/in/kawsikan-kumaralingam/
+[instagram]: https://www.instagram.com/kawsi_k/
 <!-- [facebook]: https://www.facebook.com/dmax.lakminda/ -->
 <!-- [twitter]: https://twitter.com/KKawsikan/ -->
 <!-- [hackerank]: https://www.hackerrank.com/didulalakminda31
