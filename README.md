@@ -57,6 +57,7 @@
 <img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png">
 <br />
 <img width="30px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <br />
 <img alt="android" width="30px" src="https://img.icons8.com/color/240/000000/android-os.png"/>
 <img alt="ios" width="30px" src="https://img.icons8.com/color/240/000000/ios-logo.png"/>
