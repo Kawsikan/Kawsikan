@@ -5,10 +5,10 @@
  -->
 
 - 🔭 I’m currently working on JavaScript based projects
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Machine Learning
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Twilio
+- 💬 Ask me about Web development
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns:  -->
 <!-- - ⚡ Fun fact: 
