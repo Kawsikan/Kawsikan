@@ -5,7 +5,7 @@
  -->
 
 - 🔭 I’m currently working on JavaScript based projects
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning with Python
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Web development
